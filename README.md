@@ -1,6 +1,9 @@
 # Lab_de_modelacion
-En esta carpeta se encontraran 7 carpetas, cada carpeta contiene cinco documentos
-Un código en matlab para aplicar los métodos de solución numérica para las ecuaciones
-polinómicas, otro para las polinomicas y sinusoidales. También un excel con la extracción 
-de los datos y dos con la comparación de los datos obtenidos numéricamente contra los 
-extraídos por la página.
+Dentro de esta carpeta se encuentran 7 subcarpetas, y cada una contiene los siguientes cinco archivos:
+  - Un código en MATLAB que implementa métodos de solución numérica para ecuaciones polinómicas.
+  - Otro código en MATLAB que resuelve ecuaciones que combinan términos polinómicos y sinusoidales.
+  - Un archivo en Excel que documenta los datos extraídos.
+  - Un archivo en Excel que compara los datos obtenidos numéricamente de la ecuación polinomial
+  -  con los datos extraídos mediante la herramienta utilizada.
+  - Un archivo en Excel que compara los datos obtenidos numéricamente de la ecuación polinomial y sinusoideal
+  -  con los datos extraídos mediante la herramienta utilizada.

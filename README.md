@@ -7,4 +7,5 @@ Dentro de esta carpeta se encuentran 7 subcarpetas, y cada una contiene los sigu
   -  con los datos extraídos mediante la herramienta utilizada.
   - Un archivo en Excel que compara los datos obtenidos numéricamente de la ecuación polinomial y sinusoideal
   -  con los datos extraídos mediante el método utilizado.
+
 Ademas se encuentran los códigos de SINDy aplicados a el modelo de lorenz y el utilizado para el proyecto.
